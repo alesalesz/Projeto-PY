@@ -30,7 +30,7 @@ class ExcelFrame(ctk.CTkFrame):
 
         self.titulo = ctk.CTkLabel(
             self,
-            text="Atualizacao de Preços",
+            text="Atualização de Preços",
             font=("Segoe UI", 28, "bold")
         )
 
